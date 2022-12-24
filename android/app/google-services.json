@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646564619083",
+    "project_id": "just-chat-9e05e",
+    "storage_bucket": "just-chat-9e05e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646564619083:android:f33486042e4c37147bfece",
+        "android_client_info": {
+          "package_name": "com.apoorva.just_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646564619083-rudrbn2kagnk3d3g838i4f7m3711h3o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLp-1UMqwAXWTCOVprAf3nrxdK7AGboeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646564619083-rudrbn2kagnk3d3g838i4f7m3711h3o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
